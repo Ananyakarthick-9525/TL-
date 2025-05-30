@@ -10,7 +10,7 @@
  The real-time application that highlights the use of both TE and TM waves in rectangular waveguides is Particle Accelerators, particularly Linear Accelerators (Linacs), which are used in scientific research (e.g., CERN's LHC pre-accelerators) and medical applications (e.g., radiation therapy for cancer).
   # Particle Accelerators (Linear Accelerators - Linacs):
 
-  ![Screenshot 2025-05-30 192723](https://github.com/user-attachments/assets/11e008c8-627a-4a08-80b7-0d35c9e9670e)
+   ![Screenshot 2025-05-30 192723](https://github.com/user-attachments/assets/11e008c8-627a-4a08-80b7-0d35c9e9670e)
   
    Linear accelerators (Linacs) accelerate charged particles (electrons, protons, ions) to extremely high energies by subjecting them to oscillating electric fields. The design and operation of these complex machines heavily rely on the precise control and understanding of both TE and TM modes within waveguide structures.
 
